@@ -1,0 +1,6 @@
+﻿.vs
+DraftSQliteDb.WebApi/bin
+DraftSQliteDb.WebApi/obj
+DraftSQliteDb.WebApi/myapp.db
+DraftSQliteDb.WebApi/myapp.db-shm
+DraftSQliteDb.WebApi/myapp.db-wal

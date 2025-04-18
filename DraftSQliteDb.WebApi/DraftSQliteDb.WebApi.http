@@ -1,0 +1,5 @@
+@DraftSQliteDb.WebApi_HostAddress = http://localhost:5289
+@city = Lake Haskell
+
+GET {{DraftSQliteDb.WebApi_HostAddress}}/authors/by-city/{{city}}
+Accept: application/json
